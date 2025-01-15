@@ -1,0 +1,18 @@
+Flask==2.0.1
+PySide6==6.8.1  # Updated to a compatible version
+Pillow==9.0.0  # Updated to a compatible version
+boto3==1.28.0  # Updated to a compatible version
+python-magic==0.4.27
+reportlab==3.6.11
+python-docx==0.8.11  # Dependency for handling DOCX files
+pdfkit==0.6.1  # Added for converting HTML to PDF
+pydub==0.25.1
+moviepy==1.0.3
+numpy==1.21.0  # Specify a compatible version of numpy
+# pandas==1.3.3  # Specify a compatible version of pandas
+# python-dateutil==2.8.2  # Dependency for pandas
+# pytz==2021.1  # Dependency for pandas
+python-pptx==0.6.21  # Dependency for handling PPTX files
+odfpy==1.4.1  # Added for ODT, ODS, ODP conversions
+pdf2image==1.16.3  # Added for converting PDF to images
+img2pdf==0.4.4  # Added for converting images to PDF
